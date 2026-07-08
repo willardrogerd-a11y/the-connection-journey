@@ -144,3 +144,36 @@ h1 {
     padding-bottom: 60px;
   }
 }
+label {
+  display: block;
+  margin: 14px 0 6px;
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  color: #6f5f56;
+}
+
+input {
+  width: 100%;
+  padding: 15px 14px;
+  border: 1px solid rgba(174, 133, 113, 0.35);
+  border-radius: 14px;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  background: #fffaf6;
+  color: #403832;
+}
+
+.secondary-button {
+  margin-top: 12px;
+  background: transparent !important;
+  color: #9f6f5e !important;
+  box-shadow: none !important;
+}
+
+.status-message {
+  margin-top: 14px;
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+  color: #766b64;
+}
